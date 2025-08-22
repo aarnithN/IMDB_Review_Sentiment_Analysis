@@ -25,7 +25,7 @@ jupyter notebook imdb-review-sentiment-analysis.ipynb
 
 ## Results
 - Logistic Regression performed the best with large amounts of data
-- Model can be tuned to other sentiment analysis tasks
+- Model can be tuned for other sentiment analysis tasks
 
 
 

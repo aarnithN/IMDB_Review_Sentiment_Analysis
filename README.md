@@ -5,6 +5,10 @@ This project uses NLP techniques such as tokenization and stemming to classify I
 ## Dataset
 - Public IMDB Dataset consisting of 50K movie reviews on Kaggle.
 
+## Files
+- imdb-review-sentiment-analysis.ipynb --> full code
+- requirements.txt --> dependencies
+
 ## Project Steps
 - Text-preprocessing pipeline(regex,tokenization,stopword removal, stemming)
 - Feature transormation using CountVectorizer

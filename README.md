@@ -3,7 +3,7 @@
 This project uses NLP techniques such as tokenization and stemming to classify IMDB movie reviews as positive or negative based on each review's content.
 
 ## Dataset
-- Public IMDB Dataset consisting of 50K movie reviews on Kaggle.
+- Public IMDB Dataset consisting of 50K movie reviews available on Kaggle.
 
 ## Files
 - imdb-review-sentiment-analysis.ipynb --> full code
